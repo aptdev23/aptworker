@@ -1,0 +1,299 @@
+//the texting for the worker login and register phase
+
+
+//english sub
+{
+
+  "@LOGIN_SCREEN": {},
+
+  "welcomeText":"welcome to Apt DZ workers area we wish you all success",
+  "email":"admin@aptstuff.ml",
+  "password":"password",
+  "startButton":"Let's start",
+"Notamember":"Not a member?",
+  "Regesternow":"Register now!",
+  "Orcontuenuewith":"Or continue with!",
+  "AptDZIncAllRightsReserved":"© 2023 Apt DZ Inc. All Rights Reserved.",
+  
+  
+  "@REGISTER8SCREEN": {},
+  "AlreadyhaveanAccount":"Already have an Account?",
+  "Loginnow":"Login now!",
+  
+  
+  "@REGISTER_FORM": {},
+  "gender":"Gender",
+  "ale":"Male",
+  "female":"Female",
+  "confirmyourid":"We need to confirm your ID!, Please fill out your information here",
+  "FullName":"Enter your Full Name Please!",
+  "midicalproblems":"Describe your medical problems!",
+  "dateofbirth":"Enter your date of birth",
+  "CriminalRecords":"Upload your Criminal Records!",
+  "WorkExamples":"Upload your Work Examples!",
+  "PreceedButton":"Proceed",
+
+  "@WORK_NICHE": {},
+  "Almosttheretext":"Almost there! Tell us what you can do!",
+  "SubmitButton":"Submit",
+
+  "@FORGOT_PASSWORD": {},
+    "Passwordreset":"Password reset link sent! Check your email",
+
+    "@SEARCH_NICHE": {},
+    "Typeworkyoucando":"Type all kind of work you can do!",
+    "Nonichesselected":"No work niches been selected yet",
+
+    "@WORKER_PROFILE": {},
+    "Profile":"Profile",
+    "Requests":"Requests",
+    "Completed":"Completed",
+    "Canceled":"Canceled",
+    "EditProfile":"Edit Profile",
+    "NicheandArea":"Niche and Area",
+    "Documents":"Documents",
+    "TermsandPolicy":"Terms and Policy",
+    "LogOut":"Log Out",
+
+    "@UPDATE_WORKER_PROFILE": {},
+    "SaveChanges":"Save Changes",
+
+     "@PROFILE_DOCS": {},
+    "CriminlRecords":"Criminal Records",
+    "WrkExamples":"Work Examples",
+    "Approved":"Approved",
+
+    "@TERMS_AND_POLICY": {},
+  
+  }
+
+
+//arabic sub
+{
+
+  "@LOGIN_SCREEN": {},
+
+  "welcomeText":"مرحبا بكم في منطقة عمال Apt DZ ونتمنى لكم كل التوفيق",
+  "email":"admin@aptstuff.ml",
+  "password":"كلمة السر",
+  "startButton":"لنبدأ",
+"Notamember":"ليس عضوا؟",
+  "Regesternow":"سجل الان!",
+  "Orcontuenuewith":"!او سجل الدخول تاستخدام",
+  "AptDZIncAllRightsReserved":"© 2023 Apt DZ Inc. جميع الحقوق محفوظة.",
+  
+  
+  "@REGISTER8SCREEN": {},
+  "AlreadyhaveanAccount":"هل لديك حساب؟",
+  "Loginnow":"تسجيل الدخول الآن!",
+  
+  
+  "@REGISTER_FORM": {},
+  "gender":"جنس",
+  "ale":"ذكر",
+  "female":"أنثى",
+  "confirmyourid":"نحتاج إلى تأكيد هويتك! ، يرجى ملء المعلومات الخاصة بك هنا",
+  "FullName":"أدخل اسمك الكامل من فضلك!",
+  "midicalproblems":"صف مشاكلك الطبية!",
+  "dateofbirth":"أدخل تاريخ ميلادك",
+  "CriminalRecords":" قم بتحميل سوابق عدلية !",
+  "WorkExamples":"قم بتحميل أمثلة عملك!",
+  "PreceedButton":"التابعة",
+
+  "@WORK_NICHE": {},
+  "Almosttheretext":"اوشكت على الوصول! أخبرنا ماذا يمكنك أن تفعل!",
+  "SubmitButton":"سجل الدخول",
+
+  "@FORGOT_PASSWORD": {},
+    "Passwordreset":"تم إرسال رابط إعادة تعيين كلمة المرور! تحقق من بريدك الالكتروني",
+  
+  "@SEARCH_NICHE": {},
+    "Typeworkyoucando":"اكتب كل نوع العمل الذي يمكنك القيام به!",
+    "Nonichesselected":"لم يتم تحديد مجال عمل حتى الآن",
+
+    "@WORKER_PROFILE": {},
+    "Profile":"حساب",
+    "Requests":"الطلبات",
+    "Completed":"اكتملت",
+    "Canceled":"ألغيت",
+    "EditProfile":"تعديل الملف الشخصي",
+    "NicheandArea":"التخصصات والمنطقة",
+    "Documents":"وثائق",
+    "TermsandPolicy":"الشروط والسياسة",
+    "LogOut":"تسجيل خروج",
+
+    "@UPDATE_WORKER_PROFILE": {},
+    "SaveChanges":"حفظ التغييرات",
+
+     "@PROFILE_DOCS": {},
+    "CriminlRecords":"سوابق عدلية",
+    "WrkExamples":"أمثلة عملك",
+    "Approved":"موافق عليه",
+
+    "@TERMS_AND_POLICY": {},
+  
+  }
+
+
+  //french sub
+{
+
+  "@LOGIN_SCREEN": {},
+
+  "welcomeText":"bienvenue dans l'espace travailleurs d'Apt DZ nous vous souhaitons beaucoup de succès",
+  "email":"admin@aptstuff.ml",
+  "password":"mot de passe",
+  "startButton":"commencer",
+"Notamember":"Pas un membre?",
+  "Regesternow":"S'inscrire maintenant!",
+  "Orcontuenuewith":"Ou continuez avec !",
+  "AptDZIncAllRightsReserved":"© 2023 Apt DZ Inc. Tous droits réservés.",
+  
+  
+  "@REGISTER8SCREEN": {},
+  "AlreadyhaveanAccount":"Vous avez déjà un compte?",
+  "Loginnow":"Connecte-toi maintenant!",
+  
+  
+  "@REGISTER_FORM": {},
+  "gender":"Genre",
+  "ale":"Mâle",
+  "female":"Femelle",
+  "confirmyourid":"Nous devons confirmer votre identité!, Veuillez remplir vos informations ici",
+  "FullName":"Entrez votre nom complet s'il vous plaît !",
+  "midicalproblems":"Décrivez vos problèmes médicaux!",
+  "dateofbirth":"Entrez votre date de naissance",
+  "CriminalRecords":"attachez votre casier judiciaire !",
+  "WorkExamples":"attachez vos exemples de travail !",
+  "PreceedButton":"Procéder",
+
+  "@WORK_NICHE_SCREEN": {},
+  "Almosttheretext":"Presque là! Dites-nous ce que vous pouvez faire !",
+  "SubmitButton":"Soumettre",
+
+  "@FORGOT_PASSWORD": {},
+    "Passwordreset":"Lien de réinitialisation du mot de passe envoyé ! Vérifiez votre messagerie",
+  
+  "@SEARCH_NICHE": {},
+    "Typeworkyoucando":"Tapez tout type de travail que vous pouvez faire!",
+    "Nonichesselected":"Aucune niche de travail n'a encore été sélectionnée",
+
+    "@WORKER_PROFILE": {},
+    "Profile":"Profil",
+    "Requests":"Demandes",
+    "Completed":"Complété",
+    "Canceled":"Annulé",
+    "EditProfile":"Editer le profil",
+    "NicheandArea":"Niche et Zone",
+    "Documents":"Documents",
+    "TermsandPolicy":"Termes et politique",
+    "LogOut":"Se déconnecter",
+
+    "@UPDATE_WORKER_PROFILE": {},
+    "SaveChanges":"Sauvegarder les modifications",
+
+     "@PROFILE_DOCS": {},
+    "CriminlRecords":"casier judiciaire",
+    "WrkExamples":"exemples de travail",
+    "Approved":"Approuvé",
+
+    "@TERMS_AND_POLICY": {},
+  
+  }
+
+
+
+//add worker data
+  void registerWrkerData() async {
+    // showing a laoding circle
+    showDialog(
+        context: context,
+        builder: (context) {
+          return const Center(
+            child: CircularProgressIndicator(),
+          );
+        });
+    try {
+      await addWorkerDetails(
+        _fullnameController.text.trim(),
+        _ageController.text.trim() as int,
+        _genderController.text.trim(),
+        _genderController.text.trim(),
+        _criminalController.text.trim() as File,
+        _workExamplesController.text.trim() as File,
+      );
+      // pop in the loading circul
+      Navigator.pop(context);
+    } on FirebaseAuthException catch (e) {
+      // pop out the loading circul
+      Navigator.pop(context);
+      // show error messeges
+      showErorMsg(e.code);
+    }
+  }
+
+  // wrong email and password messege
+  void showErorMsg(String messege) {
+    showDialog(
+        context: context,
+        builder: (context) {
+          return AlertDialog(
+            title: Text(
+              messege,
+              style: const TextStyle(
+                color: Color.fromARGB(255, 255, 0, 0),
+              ),
+              textAlign: TextAlign.center,
+            ),
+          );
+        });
+  }
+
+
+
+
+
+  
+  //create gender picker variables
+  final items = ['gender', 'male', 'female'];
+  String? val = 'gender';
+  Color _pickGenderColor = Colors.black;
+
+  //gende drop down button method
+  DropdownMenuItem buildMenuItem(String item) => DropdownMenuItem(
+        value: item,
+        child: Text(
+          item,
+          style: const TextStyle(
+            fontSize: 20,
+          ),
+        ),
+      );
+
+
+
+
+      //create work examples variables
+  Color _Clor = Colors.black;
+  Color? _fontColor3 = Colors.grey[500];
+
+  //filepicker method work examples
+  void openFileWork() async {
+    FilePickerResult? resultFile = await FilePicker.platform.pickFiles();
+    if (resultFile != null) {
+      setState(
+        () {
+          _Colr = const Color.fromARGB(255, 17, 13, 236);
+          _fontColor3 = const Color.fromARGB(255, 17, 13, 236);
+        },
+      );
+    } else if (resultFile == null) {
+      setState(
+        () {
+          _Colr = const Color.fromARGB(255, 255, 0, 21);
+          ;
+          _fontColor3 = const Color.fromARGB(255, 255, 0, 21);
+        },
+      );
+    }
+  }
